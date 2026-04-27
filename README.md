@@ -10,11 +10,10 @@
 
 ### 🚀 About Me
 
-- 🎓 **Student & Working Professional** — learning fast, shipping faster
+- 🎓 **Student & Working Professional** — young & healthy
 - 🤖 Currently building with **LLMs**, **AI Agents**, **APIs** & **Automations**
-- 🛠️ Deep in agentic workflows — **Claude Code**, **Cursor** & beyond
-- 🌱 Always exploring what's next in AI & emerging tech
-- 💬 Ask me about **AI/ML**, **Python**, **Machine Learning**
+- 🌱 Always exploring what's next in Emerging Technologies
+- 💬 Ask me about **Artificial Intelligence**,  **Machine Learning**, **Technology at Large**
 
 ---
 
