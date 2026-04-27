@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mamah%20Chioma%20G.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Research%20%7C%20Agents%20%26%20Automations&descSize=16&descAlignY=55&descAlign=50" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chioma+%F0%9F%91%8B%F0%9F%BE;AI%2FML+Engineer+%26+Developer;Data+Science+%7C+Agents+%7C+Automations)
+
 </div>
 
 <h3 align="center"> AI/ML Engineer & Developer &nbsp;|&nbsp; Building solutions for local & global 🌍</h3>
