@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mamah%20Chioma%20G.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Research%20%7C%20Agents%20%26%20Automations&descSize=16&descAlignY=55&descAlign=50&v=1" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mamah%20Chioma%20G.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Research%20%7C%20Agents%20%26%20Automations&descSize=16&descAlignY=55&descAlign=50&v=1"/>
+</p>
 
 <h3 align="center">
   AI/ML Engineer & Developer &nbsp;|&nbsp; Building solutions for local & global 🌍
 </h3>
+
+---
 
 ### 👩‍💻 About Me
 
