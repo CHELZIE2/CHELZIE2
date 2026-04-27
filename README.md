@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mamah%20Chioma%20G.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Software%20Development&descSize=18&descAlignY=55&descAlign=50" />
 </div>
 
-<h3 align="center">👩🏾‍💻 AI/ML Engineer & Developer &nbsp;|&nbsp; Building solutions for local & global 🌍</h3>
+<h3 align="center"> AI/ML Engineer & Developer &nbsp;|&nbsp; Building solutions for local & global 🌍</h3>
 
 <br/>
 
 ---
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
 - 🎓 **Student & Working Professional** — young & healthy
 - 🤖 Currently building with **LLMs**, **AI Agents**, **APIs** & **Automations**
