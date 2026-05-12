@@ -58,4 +58,4 @@ Building solutions for local & global impact 🌍
 
 ---
 
-✨ *Always learning. Always building.*
+✨ *Continuous Improvements.*
