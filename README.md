@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Student & Working Professional** — young & healthy
+- 🎓 **Student & Working Professional** 
 - 🤖 Currently building with **LLMs**, **AI Agents**, **APIs** & **Automations**
 - 🌱 Always exploring what's next in Emerging Technologies
 - 💬 Ask me about **Artificial Intelligence**,  **Machine Learning** & **Technology at Large**
@@ -46,20 +46,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHELZIE2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHELZIE2&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHELZIE2&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### 🔗 Connect With Me
 
