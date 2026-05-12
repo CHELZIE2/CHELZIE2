@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mamah%20Chioma%20G.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Research%20%7C%20Agents%20%26%20Automations&descSize=16&descAlignY=55&descAlign=50&v=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Mamah%20Chioma%20G.&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Research%20%7C%20Agents%20%26%20Automations&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50&amp;v=2"/>
 </p>
 
 <h3 align="center">
-  AI/ML Engineer & Developer &nbsp;|&nbsp; Building solutions for local & global 🌍
+  AI/ML Engineer &amp; Developer &nbsp;|&nbsp; Building solutions for local &amp; global 🌍
 </h3>
 
 ---
@@ -11,9 +11,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 **Student & Working Professional** 
-- 🤖 Currently building with **LLMs**, **AI Agents**, **APIs** & **Automations**
+- 🤖 Currently building with **LLMs**, **AI Agents**, **APIs** &amp; **Automations**
 - 🌱 Always exploring what's next in Emerging Technologies
-- 💬 Ask me about **Artificial Intelligence**,  **Machine Learning** & **Technology at Large**
+- 💬 Ask me about **Artificial Intelligence**, **Machine Learning** &amp; **Technology at Large**
 
 ---
 
@@ -46,6 +46,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
+---
 
 ### 🔗 Connect With Me
 
@@ -59,5 +60,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
 </div>
