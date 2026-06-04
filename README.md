@@ -1,12 +1,12 @@
 # Hi, I'm Mamah Chioma G. 
 
-### AI/ML Engineer | Data Science Research | AI Agents & Automations
+### AI/ML Engineer | Data Science Research | AI Agents & Automations | Development
 
 Building solutions for local & global impact 🌍
 
 ---
 
-## 👩‍💻 About Me
+## About Me :-)
 
 -  Student & Working Professional
 -  Building with LLMs, AI Agents, APIs & Automations
@@ -15,7 +15,7 @@ Building solutions for local & global impact 🌍
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
